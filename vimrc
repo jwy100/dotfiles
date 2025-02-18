@@ -12,7 +12,7 @@ set autoindent		" always set autoindenting on
 set number
 
 " Show line numbers relative to current cursor position
-set relativenumber
+" set relativenumber
 
 " Turn on syntax highlighting
 syntax on
